@@ -14,3 +14,5 @@ Cloning Youtube with Vanilla and NodeJS
 - [x] Upload
 - [ ] Video Detail
 - [x] Edit Video
+
+쿠키, 세션을 이용한 유저아이디 저장
